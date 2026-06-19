@@ -1,6 +1,6 @@
 # StreamVault — End-to-End DevOps Pipeline
 
-![CI/CD](https://github.com/SHUBHAMSOURCE/streamvault-devops/actions/workflows/ci-cd.yml/badge.svg)
+![CI/CD](https://github.com/SHUBHAMSOURCE/streamvault-devops/actions/workflows/deploy.yml/badge.svg)
 ![Docker](https://img.shields.io/badge/Docker-multi--stage-blue)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-minikube-326CE5)
 ![Terraform](https://img.shields.io/badge/Terraform-IaC-844FBA)
