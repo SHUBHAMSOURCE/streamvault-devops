@@ -6,6 +6,10 @@ metadata:
     nginx.ingress.kubernetes.io/rewrite-target: /
 spec:
   ingressClassName: nginx
+  tls:
+    - hosts:
+        - streamvault.local
+      secretName: streamvault-tls-secret
   rules:
     - host: streamvault.local
       http:
