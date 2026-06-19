@@ -1,0 +1,6 @@
+# Terraform state files - contain sensitive data, never commit
+terraform.tfstate
+terraform.tfstate.backup
+
+# Terraform working directory - contains downloaded provider binaries
+.terraform/
